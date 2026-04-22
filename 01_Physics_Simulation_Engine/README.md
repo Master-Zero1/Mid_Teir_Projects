@@ -68,6 +68,8 @@
 <ul>
   <li>Python</li>
   <li>Matplotlib</li>
+
+  Time taken to make this project: 2 days
 </ul>
 
 <hr>
