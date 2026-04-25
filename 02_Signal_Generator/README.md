@@ -75,7 +75,7 @@
   <li>Matplotlib</li>
   <li>SciPy</li>
 
-  Time taken to build this project: 3 days
+  Time taken to build this project: 4 days
 </ul>
 
 <hr>
